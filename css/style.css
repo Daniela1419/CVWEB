@@ -1,0 +1,175 @@
+body {
+   margin:0;
+   padding: 0;
+   background-color: #C89F9C;
+}
+.titulo{
+    color:#4d1410;
+    font-family: 'Literata', serif;
+    font-family: 'Port Lligat Slab', serif;
+    font-family: 'Unbounded';
+    font-weight: bolder;
+    text-align: center;
+    writing-mode: horizontal-tb;
+    background-color: rgb(201, 199, 129);
+    width: 500px;
+    height: auto;
+    border:5px solid rgb(248, 106, 241);
+    margin-left: 32%
+   
+    
+}
+.division {
+    
+    
+    width: 100%;
+    height: 300px;
+    color: rgb(252, 48, 242);
+    transform:matrix(-10deg)
+   
+
+}
+.casa{
+    text-align: center;
+    writing-mode: horizontal-tb;
+    background-color: rgb(201, 199, 129);
+    width: 500px;
+    height: auto;
+    border:5px solid rgb(248, 106, 241);
+    margin-left: 32%
+}
+.img{ 
+    margin: 30px;
+    padding: 150;
+    background-color: #e78179;
+    text-align: center;
+}
+.text-h1{
+    text-align: center;
+    color:white;
+    font-family: 'Literata', serif;
+    font-family: 'Port Lligat Slab', serif;
+    font-family: 'Unbounded', cursive;
+    font-weight: bolder;
+    
+}
+.p1{
+    text-align: center;
+    color:#8A271F;
+    font-family: 'Literata', serif;
+    font-family: 'Port Lligat Slab', serif;
+    font-family: 'Unbounded', cursive;
+    font-weight: bolder;
+}
+.p2{
+    text-align: center;
+    color:#8A271F;
+    font-family: 'Literata', serif;
+    font-family: 'Port Lligat Slab', serif;
+    font-family: 'Unbounded', cursive;
+    font-weight: bolder;
+}
+.p3{
+    text-align: center;
+    color:#8A271F;
+    font-family: 'Literata', serif;
+    font-family: 'Port Lligat Slab', serif;
+    font-family: 'Unbounded', cursive;
+    font-weight: bolder;
+}
+.p4{
+    text-align: center;
+    color:#8A271F;
+    font-family: 'Literata', serif;
+    font-family: 'Port Lligat Slab', serif;
+    font-family: 'Unbounded', cursive;
+    font-weight: bolder;
+}
+.p5{
+    text-align: center;
+    color:#8A271F;
+    font-family: 'Literata', serif;
+    font-family: 'Port Lligat Slab', serif;
+    font-family: 'Unbounded', cursive;
+    font-weight: bolder;
+}
+.p6{
+    text-align: center;
+    color:#8A271F;
+    font-family: 'Literata', serif;
+    font-family: 'Port Lligat Slab', serif;
+    font-family: 'Unbounded', cursive;
+    font-weight: bolder;
+}
+.dis{
+    color:#8A271F;
+    font-family: 'Literata', serif;
+    font-family: 'Port Lligat Slab', serif;
+    font-family:Verdana, Geneva, Tahoma, sans-serif , cursive;
+    font: weight 55px;;
+
+}
+.ia{
+    color:#4d1410;
+    font-family: 'Literata', serif;
+    font-family: 'Port Lligat Slab', serif;
+    font-family: 'Unbounded';
+    font-weight: bolder;
+    background-color: rgb(201, 129, 153);
+    width: 1300px;
+    height: auto;
+    border:5px solid rgb(248, 106, 241);
+    margin-left: 0%
+    
+
+}
+.exp{ color:#8A271F;
+font-family: 'Literata', serif;
+font-family: 'Port Lligat Slab', serif;
+font-family:Verdana, Geneva, Tahoma, sans-serif , cursive;
+font: weight 55px;;
+}
+.el{
+    color:#4d1410;
+    font-family: 'Literata', serif;
+    font-family: 'Port Lligat Slab', serif;
+    font-family: 'Unbounded';
+    font-weight: bolder;
+    background-color: rgb(201, 129, 153);
+    width: 1300px;
+    height: auto;
+    border:5px solid rgb(248, 106, 241);
+    margin-left: 0%
+
+}
+.exp{
+    display:none;
+    color:#8A271F;
+    font-family: 'Literata', serif;
+    font-family: 'Port Lligat Slab', serif;
+    font-family:Verdana, Geneva, Tahoma, sans-serif , cursive;
+    font: weight 55px;;
+}
+.info{
+    color:#4d1410;
+    font-family: 'Literata', serif;
+    font-family: 'Port Lligat Slab', serif;
+    font-family: 'Unbounded';
+    font-weight: bolder;
+    background-color: rgb(201, 129, 153);
+    width: 1300px;
+    height: auto;
+    border:5px solid rgb(248, 106, 241);
+    margin-left: 0%
+
+}
+.hr{
+    color:#8A271F;
+    font-family: 'Literata', serif;
+    font-family: 'Port Lligat Slab', serif;
+    font-family:Verdana, Geneva, Tahoma, sans-serif , cursive;
+    font: weight 55px;;
+}
+.herr{
+    display: none;
+}
